@@ -1,0 +1,19 @@
+{
+    "name": "ultron/contact",
+    "description": "Simple Contact Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ultron",
+            "email": "ultrondev61@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Ultron\\Contact\\": "src/"
+        }
+    }
+}
